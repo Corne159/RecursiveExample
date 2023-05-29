@@ -1,0 +1,15 @@
+F:\CorneSin\Projects\LearnProjects\RecursiveTutorial\RecursiveTutorial\bin\Debug\net6.0\RecursiveTutorial.exe
+F:\CorneSin\Projects\LearnProjects\RecursiveTutorial\RecursiveTutorial\bin\Debug\net6.0\RecursiveTutorial.deps.json
+F:\CorneSin\Projects\LearnProjects\RecursiveTutorial\RecursiveTutorial\bin\Debug\net6.0\RecursiveTutorial.runtimeconfig.json
+F:\CorneSin\Projects\LearnProjects\RecursiveTutorial\RecursiveTutorial\bin\Debug\net6.0\RecursiveTutorial.dll
+F:\CorneSin\Projects\LearnProjects\RecursiveTutorial\RecursiveTutorial\bin\Debug\net6.0\RecursiveTutorial.pdb
+F:\CorneSin\Projects\LearnProjects\RecursiveTutorial\RecursiveTutorial\obj\Debug\net6.0\RecursiveTutorial.csproj.AssemblyReference.cache
+F:\CorneSin\Projects\LearnProjects\RecursiveTutorial\RecursiveTutorial\obj\Debug\net6.0\RecursiveTutorial.GeneratedMSBuildEditorConfig.editorconfig
+F:\CorneSin\Projects\LearnProjects\RecursiveTutorial\RecursiveTutorial\obj\Debug\net6.0\RecursiveTutorial.AssemblyInfoInputs.cache
+F:\CorneSin\Projects\LearnProjects\RecursiveTutorial\RecursiveTutorial\obj\Debug\net6.0\RecursiveTutorial.AssemblyInfo.cs
+F:\CorneSin\Projects\LearnProjects\RecursiveTutorial\RecursiveTutorial\obj\Debug\net6.0\RecursiveTutorial.csproj.CoreCompileInputs.cache
+F:\CorneSin\Projects\LearnProjects\RecursiveTutorial\RecursiveTutorial\obj\Debug\net6.0\RecursiveTutorial.dll
+F:\CorneSin\Projects\LearnProjects\RecursiveTutorial\RecursiveTutorial\obj\Debug\net6.0\refint\RecursiveTutorial.dll
+F:\CorneSin\Projects\LearnProjects\RecursiveTutorial\RecursiveTutorial\obj\Debug\net6.0\RecursiveTutorial.pdb
+F:\CorneSin\Projects\LearnProjects\RecursiveTutorial\RecursiveTutorial\obj\Debug\net6.0\RecursiveTutorial.genruntimeconfig.cache
+F:\CorneSin\Projects\LearnProjects\RecursiveTutorial\RecursiveTutorial\obj\Debug\net6.0\ref\RecursiveTutorial.dll
